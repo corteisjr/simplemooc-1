@@ -67,8 +67,8 @@ body .primary-button {
     font-weight: normal;
 }
 .footer {
-    background: red;
-    color: red;
+    background: #111;
+    color: #666;
     text-align: center;
     padding: 1em;
     font-size: 80%;
