@@ -20,5 +20,6 @@ from simplemooc.core import views
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', views.home),
+    path('contact/', views.contact),
 
 ]
